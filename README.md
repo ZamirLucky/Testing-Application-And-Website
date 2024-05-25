@@ -46,9 +46,12 @@ We are conducting acceptance testing on various functionalities of the Amazon.de
 The tests encompass searching with specific parameters and sorting results in multiple ways, including by price, customer reviews, and condition (new/used items). Additionally, we are verifying the language change feature and the login process for existing users.
 
 # Technologies Applied:
-Java
+Java 
+
 JUnit
+
 Google Authenticator
+
 Selenium
 
 # Screen Captured
