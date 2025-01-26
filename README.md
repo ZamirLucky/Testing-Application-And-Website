@@ -1,7 +1,7 @@
 # Testing-Application-And-Website
 This project aims to practice software test automation by generating TOTP and testing it.
 and also launched the Amazon.de website and tested it. 
-So you will gain here the skills of unit tests, integration tests, and acceptance tests. 
+So I gained the skills of unit tests, integration tests, and acceptance tests. 
 
 # Code Design
 TOTPGenerator Class:
